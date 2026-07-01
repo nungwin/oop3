@@ -24,8 +24,8 @@ function checkAccess(user: User): void {
 
 // Test with Admin user
 const adminUser: User = {
-    username: "Kyu",
-    email: "kyu@example.com",
+    username: "nungwin",
+    email: "nungwin7@simple.com",
     role: Role.Admin
 };
 
